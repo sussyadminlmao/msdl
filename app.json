@@ -1,0 +1,7 @@
+{
+  "name": "A Musescore Search Engine",
+  "description": "An advanced downloader for http://www.musesore.com",
+  "repository": "https://github.com/sussyadminlmao/msdl",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
